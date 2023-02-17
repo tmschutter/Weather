@@ -1,0 +1,43 @@
+.break {
+    width: 100%;
+}
+
+.tempMax {
+    color: rgb(255, 0, 0);
+}
+
+.tempMin {
+    color: rgb(0, 119, 255);
+}
+
+.daily {
+    margin: 5px;
+    border-radius: 7px;
+    color: white;
+}
+
+#currentWeather {
+    height: 320px;
+    width: 320px;
+    margin: 10px;
+    margin-bottom: 5px;
+    border-radius: 7px;
+    color: white;
+    font-size: larger;
+}
+
+body {
+    background-image: url(bg.jpeg);
+    background-position: top;
+    background-size: 2560px;
+}
+
+.todayTomorrow {
+    height: 235px;
+    width: 235px;
+}
+
+.restOfWeek {
+    height: 210px;
+    width: 210px;
+}
